@@ -1,7 +1,7 @@
 
 # Farm Irrigation System
 
-In this irrigation system we want to build contains temperature and humidity sensors that control the
+We built a system that consists of temperature and humidity sensors that control the
 water supply in the farm. Using sensor data, We want to build a machine learning model that
 predicts how much water (in percentage) should be supplied to the farm.
 
